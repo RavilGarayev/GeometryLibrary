@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rrus8EkkdgoWHqqH7oX3Svm+JvDhMOaD2PVkaP0ziYMRCc/ISyMOtbql4C4yKpf6+CtFpFfl/Rqpd0Oegu1f1Q==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\GeometryLibrary\\GeometryLibrary\\GeometryLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\garayev_r.cep\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\garayev_r.cep\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\garayev_r.cep\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+select 
+	 prod.Name,
+	 cat.Name,
+	 prod.Name + ' ' + ISNULL(cat.Name, '')
+from Products prod
+    left join Category cat ON prod.Id = cat.ProductId
